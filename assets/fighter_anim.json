@@ -1,0 +1,116 @@
+{
+    "anims": [
+        {
+            "key": "standing",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 25,
+            "frames": [
+                {
+                    "key": "fighter",
+                    "frame": "standing_00000"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "standing_00001"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "standing_00002"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "standing_00003"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "standing_00004"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "standing_00005"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "standing_00006"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "standing_00007"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "standing_00008"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "standing_00009"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "standing_00010"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "standing_00011"
+                }
+            ]
+        },
+        {
+            "key": "walking",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 25,
+            "frames": [
+                {
+                    "key": "fighter",
+                    "frame": "walking_00000"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "walking_00001"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "walking_00002"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "walking_00003"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "walking_00004"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "walking_00005"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "walking_00006"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "walking_00007"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "walking_00008"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "walking_00009"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "walking_00010"
+                },
+                {
+                    "key": "fighter",
+                    "frame": "walking_00011"
+                }
+            ]
+        }
+    ]
+}
